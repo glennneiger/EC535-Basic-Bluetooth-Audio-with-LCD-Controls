@@ -2,6 +2,7 @@ Background:
 This is the my groups final project for the Spring 2016 offering of EC 535 at Boston University. The objective of the project was to connect a Gumstix Verdex Pro board with a Bluetooth speaker and play music stored on an SD card from the speaker. We also incorporated a touch screen interface to provide basic Start, Stop, Play, Pause controls. Major challenges were installing the proper packages for audio decoding and playback, installing and configuring the Bluetooth connection, and installing and coding the touch screen interface.
 
 Group Members:
+Sam Beaulieu 
 Matthew Beach
 Wassim Kahn
 
