@@ -4,7 +4,7 @@ This is the my groups final project for the Spring 2016 offering of EC 535 at Bo
 Group Members:
 Sam Beaulieu 
 Matthew Beach
-Wassim Kahn
+Wasim Kahn
 
 License:
 TBD
